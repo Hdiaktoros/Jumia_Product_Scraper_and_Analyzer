@@ -86,10 +86,10 @@ The script will:
 ## Example Outputs
 
 ### Bar Chart: Top 10 Cheapest Products
-![Top 10 Cheapest Products](images/top_cheapest_products.png)
+![Top 10 Cheapest Products](images/output.png)
 
 ### Histogram: Price Distribution
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](images/output2.png)
 
 ## Error Handling
 
@@ -122,10 +122,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, feel free to contact:
-- **Your Name**
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Emmanuel Frimpong Asante**
+- **Email**: frimpongasate50@gmail.com
+- **GitHub**: [Hdiaktoros](https://github.com/Hdiaktoros)
 
 ---
-
-Replace placeholders like `your-username`, `your-email@example.com`, and image links with appropriate values specific to your project. Let me know if you’d like further customizations! 🚀
